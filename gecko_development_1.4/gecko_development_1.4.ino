@@ -69,9 +69,6 @@ long interval = 5;        //ms time constant for timer
   * LGX = Left Go X
   * RGX = Right Go X
   * 
-  * ADD: DLX = Diagonal Left (\) Go X 
-  * ADD: DRX = Diagonal Right (/) Go X
-  * 
   * XXU = Up
   * XXH = Halfway
   * XXD = Down
