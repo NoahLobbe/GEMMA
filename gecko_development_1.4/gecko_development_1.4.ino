@@ -185,21 +185,21 @@ void setup() {
   
   
   LowerLeft.Joint.attach(LOWER_LEFT_SERVO_PIN);
-  LowerLeft.Joint.write(SERVO_LL_MIN);//SERVO_STARTING_POS);
+  LowerLeft.Joint.write(SERVO_STARTING_POS);
   LowerLeft.EM.attach(LOWER_LEFT_EM_PIN);
   //LowerLeft.EM.write(1);
   LowerLeft.smoothed_angle = SERVO_STARTING_POS;
   LowerLeft.prev_smoothed_angle = LowerLeft.smoothed_angle; //to prevent leg from going down instantly
   
   LowerRight.Joint.attach(LOWER_RIGHT_SERVO_PIN);
-  LowerRight.Joint.write(SERVO_LR_MIN);//SERVO_STARTING_POS);
+  LowerRight.Joint.write(SERVO_STARTING_POS);
   LowerRight.EM.attach(LOWER_RIGHT_EM_PIN);
   //LowerRight.EM.write(1);
   LowerRight.smoothed_angle = SERVO_STARTING_POS;
   LowerRight.prev_smoothed_angle = LowerRight.smoothed_angle; //to prevent leg from going down instantly
 
   UpperRight.Joint.attach(UPPER_RIGHT_SERVO_PIN);
-  UpperRight.Joint.write(SERVO_UR_MIN);//SERVO_STARTING_POS);
+  UpperRight.Joint.write(SERVO_STARTING_POS);
   UpperRight.EM.attach(UPPER_RIGHT_EM_PIN);
   //UpperRight.EM.write(1);
   UpperRight.smoothed_angle = SERVO_STARTING_POS;
