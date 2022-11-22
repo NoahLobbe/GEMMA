@@ -20,7 +20,7 @@ I have included .stl, .f3d (Fusion 360), and .ino (Arduino) files and also a sho
 
 
 
-## Code Note(s)
-Smoothing code for servos I found from James Bruton:
+### Code Note(s)
+Smoothing code for servos I found from **James Bruton**:
 - https://www.youtube.com/watch?v=jsXolwJskKM
 - https://github.com/XRobots/ServoSmoothing
