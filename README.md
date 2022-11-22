@@ -1,5 +1,5 @@
 # GEMMA
-Gecko Electro-Mechanical Motion Attraction
+Gecko Electro-Mechanical Motion Attraction (or just 'Gecko')
 
 This project was made for Year 11 Mechatronics (Australia), and is posted here as more of an archive so some stuff will definitely need modification.
 
