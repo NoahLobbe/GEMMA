@@ -1,9 +1,9 @@
 # GEMMA
-Gecko Electro Mechanical Motion Attraction
+Gecko Electro-Mechanical Motion Attraction
 
 This project was made for Year 11 Mechatronics (Australia), and is posted here as more of an archive so some stuff will definitely need modification.
 
-I have included .stl, .f3d (Fusion 360), and .ino (Arduino) files and also a short Power Point outlining its basic operation.
+I have included .stl, .f3d (Fusion 360), and .ino (Arduino) files and also a short .pdf outlining its basic operation.
 
 ## Materials/Components:
 - 3D print filament for body
