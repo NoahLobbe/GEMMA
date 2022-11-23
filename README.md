@@ -5,6 +5,8 @@ This project was made for Year 11 Mechatronics (Australia), and is posted here a
 
 I have included .stl, .f3d (Fusion 360), and .ino (Arduino) files and also a short .pdf outlining its basic operation.
 
+Youtube video: https://www.youtube.com/watch?v=VduDyxTGmJU
+
 ## Materials/Components:
 - 3D print filament for body
 - super glue (or equivalent) for battery packs and servo horns
