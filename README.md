@@ -1,7 +1,7 @@
 # GEMMA
 Gecko Electro-Mechanical Motion Attraction (or just 'Gecko')
 
-This project was made for Year 11 Mechatronics (Australia), and is posted here as more of an archive so some stuff might not even work. Originally I designed it to have electromagnets in the ends of the legs powered by a L298N motor driver, but I ended up having to trash that idea; the L298N mounting is still present in final prototype though.
+This project was made for a robotics course, and is posted here as more of an archive so some stuff might not even work. Originally I designed it to have electromagnets in the ends of the legs powered by a L298N motor driver, but I ended up having to trash that idea; the L298N mounting is still present in final prototype though.
 
 I have included .stl, .f3d (Fusion 360), and .ino (Arduino) files and also a short .pdf outlining its basic operation.
 
